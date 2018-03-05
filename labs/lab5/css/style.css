@@ -28,6 +28,9 @@ table {
     text-align: center;
 }
 
+th {
+  text-align:  center;
+}
 table .header {
    border: 0;
 }
